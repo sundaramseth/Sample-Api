@@ -1,0 +1,7 @@
+[
+  { "flow_rate": 10, "differential_head": 20 },
+  { "flow_rate": 15, "differential_head": 25 },
+  { "flow_rate": 20, "differential_head": 30 },
+  { "flow_rate": 25, "differential_head": 35 },
+  { "flow_rate": 30, "differential_head": 40 }
+]
